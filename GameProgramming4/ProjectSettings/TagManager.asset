@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - PlayerManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackUI
+  - Water
+  - UI
+  - Player
+  - 
+  - Ground
+  - Grass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackUI
+    uniqueID: 3232565713
+    locked: 0
+  - name: Player
+    uniqueID: 3815135421
+    locked: 0
+  - name: UI
+    uniqueID: 2932124903
+    locked: 0
